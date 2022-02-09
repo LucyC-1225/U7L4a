@@ -16,5 +16,4 @@ public class SystemLog {
         }
         return removed;
     }
-
 }
