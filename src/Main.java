@@ -41,5 +41,12 @@ public class Main {
         System.out.println(message6);
         System.out.println(message7);
         System.out.println(message8);
+        //messages 1 - 4 should be left
+        System.out.println((log.getMessageList()));
+        //memory locations of messages 1 - 4
+        System.out.println(message1);
+        System.out.println(message2);
+        System.out.println(message3);
+        System.out.println(message4);
     }
 }

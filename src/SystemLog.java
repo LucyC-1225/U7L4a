@@ -16,4 +16,7 @@ public class SystemLog {
         }
         return removed;
     }
+    public ArrayList<LogMessage> getMessageList(){
+        return messageList;
+    }
 }
